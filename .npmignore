@@ -1,0 +1,13 @@
+.babelrc
+.editorconfig
+.jscsrc
+.jshintrc
+.travis.yml
+docs/
+gulp/
+src/
+test/
+gulpfile.js
+CHANGELOG.md
+CONTRIBUTER_CODE_OF_CONDUCT.md
+CONTRIBUTING.md
