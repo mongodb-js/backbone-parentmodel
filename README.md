@@ -1,6 +1,6 @@
 # backbone-parentmodel
 
-[![Build Status](https://travis-ci.org/mongodb-js/backbone-parentmodel.svg?branch=master)](https://travis-ci.org/mongodbjs/backbone-parentmodel)
+[![Build Status](https://travis-ci.org/mongodb-js/backbone-parentmodel.svg?branch=master)](https://travis-ci.org/mongodb-js/backbone-parentmodel)
 
 backbone-parentmodel provides a set of extensions to Backbone.Model for working with nested structures where logic is assigned to nested Models and Collections. The core functionality is to override `clone`, `toJSON`, and `parse` methods to handle the nesting. Nested structures are defined as:
 
