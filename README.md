@@ -45,7 +45,7 @@ Please read [our contributing guide](./CONTRIBUTING.md) for guidelines on:
 
 Please contact one of the project maintainers with any project issues or questions.
 
-- Dennis Kuczynski @denniskuczynski
+- Dennis Kuczynski [@denniskuczynski](https://github.com/denniskuczynski)
 
 
 ## LICENSE
