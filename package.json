@@ -27,11 +27,11 @@
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "gulp-babel": "^6.1.1",
-    "gulp-istanbul": "^0.10.3",
-    "gulp-jscs": "^3.0.2",
+    "gulp-istanbul": "^1.1.1",
+    "gulp-jscs": "^4.0.0",
     "gulp-jshint": "^2.0.0",
-    "gulp-mocha": "^2.2.0",
-    "jscs": "^2.7.0",
+    "gulp-mocha": "^3.0.1",
+    "jscs": "^3.0.7",
     "jshint": "^2.8.0"
   },
   "dependencies": {
